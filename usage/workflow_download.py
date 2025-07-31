@@ -16,7 +16,6 @@ jm_albums = '''
 jm_photos = '''
 
 
-
 '''
 
 
